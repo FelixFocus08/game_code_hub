@@ -133,7 +133,7 @@ const Navbar = ({ toggleSidebar }) => {
         <div className="flex items-center gap-4">
           <div className="hidden md:flex items-center gap-2">
             <a
-              href="https://github.com"
+              href="https://github.com/FelixFocus08"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition-colors"
@@ -142,16 +142,16 @@ const Navbar = ({ toggleSidebar }) => {
               <Github className="h-5 w-5" />
             </a>
             <a
-              href="https://twitter.com"
+              href="https://youtube.com"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition-colors"
-              aria-label="Twitter Profil"
+              aria-label="Youtube Profil"
             >
               <Twitter className="h-5 w-5" />
             </a>
             <a
-              href="https://twitch.tv"
+              href="https://twitch.tv/fel1g0r"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition-colors"
