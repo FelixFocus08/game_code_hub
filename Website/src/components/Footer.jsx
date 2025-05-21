@@ -16,11 +16,11 @@ const Footer = () => {
   ];
   
   const socialLinks = [
-    { name: "GitHub", url: "https://github.com", icon: <Github className="h-5 w-5" /> },
+    { name: "GitHub", url: "https://github.com/FelixFocus08", icon: <Github className="h-5 w-5" /> },
     { name: "Twitter", url: "https://twitter.com", icon: <Twitter className="h-5 w-5" /> },
-    { name: "Twitch", url: "https://twitch.tv", icon: <Twitch className="h-5 w-5" /> },
+    { name: "Twitch", url: "https://twitch.tv/fel1g0r", icon: <Twitch className="h-5 w-5" /> },
     { name: "Discord", url: "https://discord.gg/6ZPskNPHXC", icon: <FaDiscord className="h-5 w-5" /> },
-    { name: "Email", url: "mailto:info@gamecodehub.de", icon: <Mail className="h-5 w-5" /> },
+    { name: "Email", url: "mailto:FelixFocus@outlook.de", icon: <Mail className="h-5 w-5" /> },
   ];
 
   return (
